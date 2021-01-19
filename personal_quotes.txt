@@ -1,7 +1,4 @@
 Strength through stuggle - Michael Choi
 
-<<<<<<< HEAD
 I like green- Jay Patel
-=======
-I like yellow- Jay Patel
->>>>>>> personal_color
+
